@@ -21,7 +21,7 @@ namespace Samuel
                 foreach (string s in args)
                 {
                     Console.WriteLine("Param " + paramnbr.ToString() + ": " + s);
-                    paramnbr++;
+                    paramnbr++;  
                 }
             }
 
